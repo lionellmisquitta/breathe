@@ -9,14 +9,6 @@ Free. Offline. No account. Nothing leaves your device.
 
 [▶ Watch the full 38-second demo](https://lionellmisquitta.github.io/breathe/media/breathe-demo.mp4)
 
-## Support Breathe
-
-Breathe is free, and always intended to be. If it helped you slow down for a moment, you can support its continued development.
-
-[![Sponsor Breathe on GitHub](https://img.shields.io/badge/Support_Breathe-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lionellmisquitta)
-
-*GitHub Sponsors is currently pending approval, so sponsorships may not be available yet.*
-
 ---
 
 ## Guided breathing and mindful relaxation
@@ -59,3 +51,13 @@ No sign-up, no tracking, no servers. Your minutes and settings are saved only on
 - **Breathing technique:** the physiological sigh, as explained by Dr. Andrew Huberman. **Blue Mind:** Dr. Wallace J. Nichols. Breathe is not affiliated with or endorsed by either.
 
 Breathe is a relaxation tool, not medical advice.
+
+---
+
+## Support Breathe
+
+Breathe is free, and always intended to be. If it helped you slow down for a moment, you can support its continued development.
+
+[![Sponsor Breathe on GitHub](https://img.shields.io/badge/Support_Breathe-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lionellmisquitta)
+
+*GitHub Sponsors is currently pending approval, so sponsorships may not be available yet.*
