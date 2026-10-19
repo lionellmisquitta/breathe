@@ -9,6 +9,14 @@ Free. Offline. No account. Nothing leaves your device.
 
 *Tap the image to watch the 38-second demo.*
 
+## Support Breathe
+
+Breathe is free, and always intended to be. If it helped you slow down for a moment, you can support its continued development.
+
+[![Sponsor Breathe on GitHub](https://img.shields.io/badge/Support_Breathe-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/lionellmisquitta)
+
+*GitHub Sponsors is currently pending approval, so sponsorships may not be available yet.*
+
 ---
 
 ## Two modes
