@@ -5,7 +5,7 @@ Free. Offline. No account. Nothing leaves your device.
 
 **Open it:** https://lionellmisquitta.github.io/breathe/
 
-[![Watch the 38-second demo](media/breathe-poster.jpg)](media/breathe-demo.mp4)
+[![Watch the 38-second demo](media/breathe-poster.jpg)](https://lionellmisquitta.github.io/breathe/media/breathe-demo.mp4)
 
 *Tap the image to watch the 38-second demo.*
 
