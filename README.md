@@ -19,6 +19,10 @@ Breathe is free, and always intended to be. If it helped you slow down for a mom
 
 ---
 
+## Guided breathing and mindful relaxation
+
+Breathe is a free, privacy-friendly breathing and mindfulness app for taking a quick reset, relaxing after a stressful day, or winding down before sleep. Try guided breathwork using the physiological sigh, with optional waves, rain, or silence. No account or tracking required, and it works offline after your first visit.
+
 ## Two modes
 
 **Quick Reset.** For between meetings. Pick 1, 3, 5 minutes or your own time, choose waves, rain or silence, and follow the circle as it fills with water.
